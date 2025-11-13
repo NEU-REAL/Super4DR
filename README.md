@@ -3,6 +3,8 @@
     <img src="images/Title.png" width="100%">
 </p>
 
+[2025.11.13] 🥳 Our dataset is now open for public access.
+
 ## Framework Overview
 <p align="center">
     <img src="images/Overview.png" width="100%">
