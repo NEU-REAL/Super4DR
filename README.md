@@ -22,6 +22,6 @@ Through experiments with diverse scenes and radar data on public datasets and a 
     <img src="images/Self-collected Campus Dataset.png" width="100%">
 </p>
 
-Download link: [[Super4DR-bag]([https://arxiv.org/abs/2503.01438](https://pan.baidu.com/s/1e1JB2MattICLVnIKPLxJHg?pwd=jr8s)]. Code for extracting netdisk data if needed: jr8s
+Download link: [[Super4DR-bag](https://pan.baidu.com/s/1e1JB2MattICLVnIKPLxJHg?pwd=jr8s)]. Code for extracting netdisk data if needed: jr8s
 
 The visualization of our handheld equipment and the projection results among different sensors. Multi-sensor data are collected across various campus scenes under both daytime and nighttime conditions.
