@@ -3,9 +3,14 @@
     <img src="images/Title.png" width="100%">
 </p>
 
-[![arXiv](https://img.shields.io/badge/arXiv-2407.17905-b31b1b.svg)](https://arxiv.org/pdf/2512.09608)
+<div align="center">
 
-[2025.11.13] 🥳 Our dataset is now open for public access.
+[![arXiv](https://img.shields.io/badge/arXiv-2407.17905-b31b1b.svg)](https://arxiv.org/abs/2407.17905)
+
+</div>
+
+[2025.11.13] :tada: Our dataset is now open for public access.
+[2025.12.11] :confetti_ball: The Super4DR paper has been posted on arXiv.
 
 ## Framework Overview
 <p align="center">
