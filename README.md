@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv-2407.17905-b31b1b.svg)](https://arxiv.org/abs/2407.17905)
+[![arXiv](https://img.shields.io/badge/arXiv-2512.09608-b31b1b.svg)](https://arxiv.org/abs/2512.09608)
 
 </div>
 
