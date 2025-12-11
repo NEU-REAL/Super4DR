@@ -3,6 +3,8 @@
     <img src="images/Title.png" width="100%">
 </p>
 
+[![arXiv](https://img.shields.io/badge/arXiv-2407.17905-b31b1b.svg)](https://arxiv.org/pdf/2512.09608)
+
 [2025.11.13] 🥳 Our dataset is now open for public access.
 
 ## Framework Overview
